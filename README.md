@@ -3,3 +3,4 @@ This instructor repo is created as part of the course tiled "Data Structures and
 
 ## Index  
 [ least_count.c](least_count.c)
+[least_count.py](least_count.py)
