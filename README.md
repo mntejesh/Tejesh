@@ -3,5 +3,5 @@ This instructor repo is created as part of the course tiled "Data Structures and
 
 ## Index  
 [ least_count in c language](least_count.c)  
-[least count](least_count.py)
-[sorting technique](sorting.py)
+[least count](least_count.py)  
+[sorting technique](sorting.py)  
