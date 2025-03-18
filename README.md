@@ -5,3 +5,4 @@ This instructor repo is created as part of the course tiled "Data Structures and
 [ least_count in c language](least_count.c)  
 [least count](least_count.py)  
 [sorting technique](sorting.py)  
+[linked_list](linked_list.py)  
