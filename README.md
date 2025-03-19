@@ -5,3 +5,4 @@ This repo is of many C program and all kind of Python programs.
 [least count](least_count.py)  
 [sorting technique](sorting.py)  
 [linked_list](linked_list.py)  
+[Linked list using stack](Linked_stack.py)  
