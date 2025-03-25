@@ -6,5 +6,6 @@ This repo is of many C program and all kind of Python programs.
 [sorting technique](sorting.py)  
 [linked_list](linked_list.py)  
 [Linked list using stack](Linked_stack.py)  
-[Binary search Tree](BST.py)
-[Sorting Algorithms](Sorting.py)
+[Binary search Tree](BST.py)  
+[Sorting Algorithms](Sorting.py)  
+[Binary_Tree](Binary_Tree.py)
