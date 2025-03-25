@@ -7,3 +7,4 @@ This repo is of many C program and all kind of Python programs.
 [linked_list](linked_list.py)  
 [Linked list using stack](Linked_stack.py)  
 [Binary search Tree](BST.py)
+[Sorting Algorithms](Sorting.py)
