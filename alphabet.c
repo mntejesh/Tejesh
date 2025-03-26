@@ -1,6 +1,4 @@
-
-7. Write a C program to input any character and check whether it is alphabet, digit or special character.
-CODE : #include <stdio.h>
+#include <stdio.h>
              int main()
        {
             char character;
