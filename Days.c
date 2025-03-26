@@ -1,14 +1,13 @@
 
-9. Write a C program to input month number and print number of days in that month.
-CODE :    #include <stdio.h>
-                 int main()
-             {
-                 int month;
-                      printf("Enter a month number (1-12): ");
-                scanf("%d", &month);
-                     int days;
+#include <stdio.h>
+int main()
+{
+  int month;
+  printf("Enter a month number (1-12): ");
+  scanf("%d", &month);
+  int days;
                     // Check if the month is February
-              if (month == 2)
+  if (month == 2)
     {
             days = 28; // assuming non-leap year
     }
