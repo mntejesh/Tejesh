@@ -1,9 +1,4 @@
-	Write a C program to evaluate the experssion
-           for a=9, b=13, c=3 
-          x = a-b/3.0+c*2-1;
-          y = a-(float)b/(3+c)*(2-1);
-          z = a-((float)b/(3+c)*2)-1;
-CODE : #include <stdio.h>
+#include <stdio.h>
              int main() {
              int a = 9, b = 13, c = 3;
             float x, y, z;
