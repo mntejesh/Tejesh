@@ -1,5 +1,4 @@
-20. Write a c program to check whether given number i sprime or not
-CODE :   #include <stdio.h>
+#include <stdio.h>
                int main()
  {
     int num, i, flag = 0;
