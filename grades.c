@@ -18,12 +18,16 @@ int main() {
     char grade;
     switch ((int)percentage / 10) {
         case 10:
-        case 9: grade = 'A'; break;
-        case 8: grade = 'B'; break;
-        case 7: grade = 'C'; break;
-        case 6: grade = 'D'; break;
-        case 4:
-        case 5: grade = 'E'; break;
+        case 9: grade = 'A';
+            break;
+        case 8: grade = 'B';
+            break;
+        case 7: grade = 'C';
+            break;
+        case 6: grade = 'D';
+            break;
+        case 5: grade = 'E';
+            break;
         default: grade = 'F';
     }
     
@@ -33,4 +37,11 @@ int main() {
     printf("Grade: %c\n", grade);
     
     return 0;
-}
+//Enter marks for Physics: 90
+//Enter marks for Chemistry: 99
+//Enter marks for Biology: 87
+//Enter marks for Mathematics: 97
+//Enter marks for Computer: 60
+//Total Marks: 433.00
+//Percentage: 86.60%
+//Grade: B
